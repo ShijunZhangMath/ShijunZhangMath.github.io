@@ -81,7 +81,7 @@ insertStyle[10]=" .addWhiteSpaceThree { height:"+h1Size+"px;}";
 insertStyle[11]=" .showcaseImg { width:"+w*0.3+"px;}"
 /*styleInJs.innerHTML=insertStyle.join('')*/
 
-alert('w'+w+'wc'+wc+'h'+h+"hc"+hc)
+// alert('w'+w+'wc'+wc+'h'+h+"hc"+hc)
 
 
 /*//refresh if the window size is changed
